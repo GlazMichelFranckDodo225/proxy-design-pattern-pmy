@@ -1,4 +1,4 @@
-package com.dgmf.proxy;
+package com.dgmf.context;
 
 public class SecurityContext {
     public static String username = "";
